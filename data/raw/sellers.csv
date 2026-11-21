@@ -1,0 +1,621 @@
+seller_id,nome_fantasia,reputacao,inicio_full
+SL100000,Store Distribuidora 000,verde,2020-04-15
+SL100001,Mix Outlet 001,verde,2020-04-08
+SL100002,Brasil Online 002,amarelo,2025-12-13
+SL100003,Point Utilidades 003,verde,2020-07-30
+SL100004,Loja Tech 004,verde claro,2023-03-12
+SL100005,Top Outlet 005,verde,2023-02-23
+SL100006,Point Digital 006,verde claro,2022-05-21
+SL100007,Shop Outlet 007,verde,2020-04-25
+SL100008,Mega Online 008,verde,2021-01-19
+SL100009,Mega Varejo 009,verde,2023-03-05
+SL100010,Center Tech 010,verde,2020-09-09
+SL100011,Prime Utilidades 011,verde claro,2024-08-20
+SL100012,Mix Utilidades 012,verde,2025-06-01
+SL100013,Store Varejo 013,verde,2024-02-21
+SL100014,Shop Commerce 014,verde claro,2025-03-23
+SL100015,Brasil Commerce 015,verde,2023-11-19
+SL100016,Brasil Plus 016,verde,2024-05-12
+SL100017,Center Online 017,verde claro,2020-04-16
+SL100018,Mix Distribuidora 018,verde,2023-06-08
+SL100019,Prime Plus 019,amarelo,2021-06-28
+SL100020,Shop Utilidades 020,verde,2021-03-02
+SL100021,Point Imports 021,verde claro,2025-08-26
+SL100022,Point Distribuidora 022,verde claro,2025-03-16
+SL100023,Mega Digital 023,verde claro,2020-10-10
+SL100024,Shop Digital 024,verde,2026-03-18
+SL100025,Mega Commerce 025,verde claro,2023-05-11
+SL100026,Store Varejo 026,verde claro,2023-11-29
+SL100027,Center Plus 027,verde,2020-04-25
+SL100028,Center Distribuidora 028,verde,2025-07-25
+SL100029,Shop Commerce 029,laranja,2025-11-30
+SL100030,Top Varejo 030,verde claro,2024-10-31
+SL100031,Prime Utilidades 031,verde,2021-01-29
+SL100032,Store Digital 032,verde claro,2023-04-25
+SL100033,Mega Imports 033,verde,2022-08-01
+SL100034,Store Distribuidora 034,verde,2022-06-20
+SL100035,Point Utilidades 035,amarelo,2023-06-11
+SL100036,Mix Tech 036,verde,2024-07-02
+SL100037,Shop Digital 037,verde,2024-07-10
+SL100038,Express Outlet 038,verde,2021-07-10
+SL100039,Express Imports 039,verde,2025-11-26
+SL100040,Brasil Utilidades 040,verde,2022-10-02
+SL100041,Store Outlet 041,verde,2024-08-20
+SL100042,Casa Commerce 042,verde,2025-06-17
+SL100043,Store Outlet 043,verde,2022-03-09
+SL100044,Mix Distribuidora 044,verde,2025-05-26
+SL100045,Loja Online 045,verde,2020-06-22
+SL100046,Shop Digital 046,verde claro,2021-11-17
+SL100047,Casa Commerce 047,amarelo,2024-06-15
+SL100048,Mix Commerce 048,verde,2024-10-01
+SL100049,Express Outlet 049,verde,2026-02-14
+SL100050,Mix Tech 050,verde,2022-08-28
+SL100051,Express Commerce 051,verde,2020-02-09
+SL100052,Mega Digital 052,verde,2022-10-18
+SL100053,Express Tech 053,amarelo,2024-11-16
+SL100054,Express Tech 054,verde,2020-09-22
+SL100055,Casa Imports 055,verde claro,2021-02-09
+SL100056,Prime Outlet 056,verde,2022-08-08
+SL100057,Prime Tech 057,verde,2022-11-23
+SL100058,Brasil Plus 058,amarelo,2022-10-03
+SL100059,Prime Commerce 059,amarelo,2023-04-17
+SL100060,Shop Distribuidora 060,verde,2023-11-10
+SL100061,Shop Distribuidora 061,verde,2023-11-14
+SL100062,Brasil Distribuidora 062,verde,2022-08-03
+SL100063,Store Imports 063,verde claro,2026-03-25
+SL100064,Brasil Varejo 064,verde,2023-01-30
+SL100065,Prime Utilidades 065,verde,2024-04-30
+SL100066,Loja Varejo 066,verde claro,2024-03-11
+SL100067,Center Digital 067,verde,2022-06-21
+SL100068,Prime Plus 068,verde,2024-01-13
+SL100069,Store Utilidades 069,laranja,2024-07-02
+SL100070,Loja Distribuidora 070,verde,2023-01-12
+SL100071,Loja Tech 071,verde,2022-12-09
+SL100072,Shop Outlet 072,verde,2023-10-06
+SL100073,Mega Distribuidora 073,verde,2022-08-08
+SL100074,Brasil Imports 074,verde,2024-10-08
+SL100075,Point Outlet 075,verde,2022-04-21
+SL100076,Shop Plus 076,amarelo,2020-08-04
+SL100077,Express Plus 077,verde,2023-02-08
+SL100078,Store Commerce 078,verde claro,2025-09-06
+SL100079,Top Imports 079,verde,2021-10-08
+SL100080,Brasil Imports 080,verde,2021-12-15
+SL100081,Center Plus 081,verde claro,2021-07-10
+SL100082,Casa Commerce 082,verde,2025-11-06
+SL100083,Loja Imports 083,verde claro,2020-12-07
+SL100084,Prime Outlet 084,verde,2022-10-15
+SL100085,Store Distribuidora 085,verde,2022-10-09
+SL100086,Express Commerce 086,verde,2023-07-21
+SL100087,Loja Tech 087,verde,2021-11-05
+SL100088,Store Varejo 088,verde,2024-10-20
+SL100089,Casa Utilidades 089,verde,2025-04-08
+SL100090,Mix Digital 090,verde claro,2022-09-29
+SL100091,Store Outlet 091,verde,2025-05-04
+SL100092,Brasil Varejo 092,verde,2020-10-05
+SL100093,Center Commerce 093,verde claro,2022-03-01
+SL100094,Shop Tech 094,verde,2025-07-29
+SL100095,Shop Online 095,verde,2023-11-25
+SL100096,Loja Digital 096,verde,2021-01-28
+SL100097,Mix Tech 097,verde,2025-09-06
+SL100098,Center Digital 098,verde claro,2025-07-11
+SL100099,Point Imports 099,verde,2022-04-06
+SL100100,Prime Plus 100,verde,2021-03-06
+SL100101,Mega Distribuidora 101,verde claro,2023-06-29
+SL100102,Mix Varejo 102,amarelo,2023-09-09
+SL100103,Loja Commerce 103,verde,2022-10-17
+SL100104,Shop Outlet 104,verde,2024-06-26
+SL100105,Mix Tech 105,verde,2024-02-04
+SL100106,Loja Commerce 106,verde claro,2024-12-11
+SL100107,Top Distribuidora 107,amarelo,2026-01-16
+SL100108,Point Tech 108,verde,2024-09-27
+SL100109,Point Commerce 109,verde,2020-11-14
+SL100110,Brasil Online 110,verde,2020-01-18
+SL100111,Center Plus 111,verde,2026-01-29
+SL100112,Store Imports 112,amarelo,2025-01-29
+SL100113,Prime Plus 113,verde,2024-03-11
+SL100114,Top Digital 114,verde,2021-08-04
+SL100115,Brasil Online 115,verde,2025-01-04
+SL100116,Mix Outlet 116,verde,2020-09-07
+SL100117,Express Imports 117,verde claro,2023-12-31
+SL100118,Point Varejo 118,verde,2022-05-16
+SL100119,Point Outlet 119,verde,2025-06-24
+SL100120,Store Digital 120,verde,2024-04-17
+SL100121,Point Distribuidora 121,laranja,2022-01-20
+SL100122,Shop Online 122,verde claro,2024-12-22
+SL100123,Store Commerce 123,verde,2024-06-16
+SL100124,Mega Online 124,verde claro,2021-08-01
+SL100125,Casa Utilidades 125,verde,2021-08-30
+SL100126,Casa Imports 126,verde claro,2022-06-08
+SL100127,Point Tech 127,verde,2023-03-15
+SL100128,Mega Imports 128,amarelo,2021-09-28
+SL100129,Prime Tech 129,verde,2024-04-16
+SL100130,Top Plus 130,verde,2023-04-21
+SL100131,Point Commerce 131,verde claro,2021-04-07
+SL100132,Store Tech 132,verde,2024-06-03
+SL100133,Mega Utilidades 133,verde,2020-05-20
+SL100134,Mega Plus 134,verde,2025-11-07
+SL100135,Casa Varejo 135,verde,2024-12-24
+SL100136,Casa Plus 136,verde,2020-07-27
+SL100137,Mega Commerce 137,verde,2025-02-03
+SL100138,Store Commerce 138,verde,2022-02-03
+SL100139,Point Outlet 139,verde,2024-03-11
+SL100140,Center Online 140,verde,2021-06-26
+SL100141,Brasil Commerce 141,verde,2022-01-09
+SL100142,Center Varejo 142,verde,2020-02-03
+SL100143,Store Outlet 143,verde,2024-02-22
+SL100144,Prime Varejo 144,verde,2023-09-17
+SL100145,Mix Plus 145,verde claro,2020-07-11
+SL100146,Mega Digital 146,verde,2021-09-26
+SL100147,Casa Varejo 147,verde,2024-03-03
+SL100148,Mega Commerce 148,verde claro,2025-01-09
+SL100149,Brasil Plus 149,verde,2023-08-18
+SL100150,Mix Utilidades 150,amarelo,2021-01-13
+SL100151,Center Outlet 151,amarelo,2023-11-20
+SL100152,Mix Distribuidora 152,verde,2021-05-28
+SL100153,Top Online 153,verde claro,2022-10-25
+SL100154,Mega Distribuidora 154,verde,2023-01-07
+SL100155,Store Plus 155,verde,2021-06-01
+SL100156,Top Tech 156,verde,2025-02-14
+SL100157,Express Tech 157,verde,2024-07-27
+SL100158,Mix Utilidades 158,amarelo,2020-09-09
+SL100159,Casa Digital 159,verde,2022-12-03
+SL100160,Shop Utilidades 160,verde claro,2020-09-20
+SL100161,Top Plus 161,verde,2024-09-10
+SL100162,Center Outlet 162,verde,2022-06-04
+SL100163,Express Imports 163,laranja,2022-04-17
+SL100164,Mix Distribuidora 164,verde claro,2021-07-20
+SL100165,Point Varejo 165,verde,2020-07-20
+SL100166,Casa Commerce 166,amarelo,2020-11-04
+SL100167,Shop Distribuidora 167,verde,2023-06-01
+SL100168,Prime Tech 168,verde,2024-07-26
+SL100169,Mega Plus 169,verde,2023-12-03
+SL100170,Center Varejo 170,amarelo,2021-06-03
+SL100171,Casa Distribuidora 171,verde,2025-10-21
+SL100172,Prime Distribuidora 172,amarelo,2024-02-06
+SL100173,Mega Imports 173,verde,2025-08-03
+SL100174,Mix Digital 174,verde,2020-01-11
+SL100175,Mix Varejo 175,verde,2020-05-11
+SL100176,Loja Online 176,verde,2020-05-17
+SL100177,Mix Outlet 177,verde,2024-11-10
+SL100178,Point Online 178,verde claro,2022-04-23
+SL100179,Point Imports 179,verde claro,2021-08-24
+SL100180,Store Plus 180,laranja,2023-10-01
+SL100181,Mix Outlet 181,verde,2024-05-22
+SL100182,Mix Outlet 182,verde claro,2022-10-26
+SL100183,Point Commerce 183,verde,2022-05-22
+SL100184,Center Plus 184,verde claro,2022-06-11
+SL100185,Top Digital 185,amarelo,2022-01-10
+SL100186,Casa Digital 186,laranja,2022-05-23
+SL100187,Shop Digital 187,verde,2023-01-28
+SL100188,Top Utilidades 188,verde,2022-01-20
+SL100189,Mix Utilidades 189,amarelo,2023-05-05
+SL100190,Store Imports 190,amarelo,2024-01-29
+SL100191,Store Commerce 191,verde,2024-05-16
+SL100192,Casa Digital 192,amarelo,2020-01-22
+SL100193,Top Commerce 193,verde,2024-01-07
+SL100194,Mega Imports 194,verde,2021-12-30
+SL100195,Mega Distribuidora 195,verde claro,2024-04-08
+SL100196,Mega Digital 196,verde,2026-01-19
+SL100197,Shop Tech 197,verde,2022-06-02
+SL100198,Brasil Plus 198,verde,2020-09-14
+SL100199,Point Commerce 199,verde,2024-04-06
+SL100200,Express Outlet 200,verde,2022-01-31
+SL100201,Shop Distribuidora 201,verde,2022-03-05
+SL100202,Casa Distribuidora 202,verde claro,2023-11-18
+SL100203,Casa Imports 203,verde,2023-10-29
+SL100204,Center Commerce 204,verde claro,2020-03-01
+SL100205,Prime Digital 205,verde claro,2022-11-22
+SL100206,Casa Outlet 206,verde,2022-05-20
+SL100207,Shop Plus 207,verde,2023-07-18
+SL100208,Point Outlet 208,verde,2023-12-13
+SL100209,Loja Digital 209,verde,2020-02-10
+SL100210,Brasil Tech 210,verde claro,2020-05-21
+SL100211,Point Tech 211,verde,2023-02-21
+SL100212,Mega Imports 212,verde,2025-04-16
+SL100213,Top Distribuidora 213,verde claro,2021-05-20
+SL100214,Mega Online 214,verde,2020-09-24
+SL100215,Top Tech 215,verde,2022-06-06
+SL100216,Express Outlet 216,verde claro,2021-09-05
+SL100217,Shop Online 217,verde claro,2020-06-18
+SL100218,Top Imports 218,verde,2025-11-03
+SL100219,Center Online 219,verde claro,2024-02-19
+SL100220,Center Outlet 220,verde,2024-12-29
+SL100221,Shop Imports 221,verde,2025-08-17
+SL100222,Express Commerce 222,verde,2023-12-29
+SL100223,Prime Distribuidora 223,verde,2022-03-26
+SL100224,Top Distribuidora 224,verde,2020-01-02
+SL100225,Center Digital 225,verde,2020-08-29
+SL100226,Shop Distribuidora 226,verde,2021-12-23
+SL100227,Loja Distribuidora 227,verde,2023-11-27
+SL100228,Point Outlet 228,verde claro,2024-02-25
+SL100229,Mix Outlet 229,verde,2020-10-19
+SL100230,Prime Tech 230,laranja,2021-08-21
+SL100231,Mega Online 231,verde,2025-08-12
+SL100232,Top Outlet 232,verde,2021-11-04
+SL100233,Shop Outlet 233,verde,2020-10-08
+SL100234,Mega Imports 234,laranja,2021-07-18
+SL100235,Prime Digital 235,verde,2022-04-12
+SL100236,Shop Distribuidora 236,verde,2023-02-16
+SL100237,Express Utilidades 237,laranja,2023-02-11
+SL100238,Mega Commerce 238,amarelo,2020-09-01
+SL100239,Express Plus 239,verde,2020-09-28
+SL100240,Point Tech 240,verde,2021-04-18
+SL100241,Mega Utilidades 241,verde,2022-01-03
+SL100242,Point Varejo 242,verde claro,2026-01-31
+SL100243,Store Distribuidora 243,verde,2021-09-25
+SL100244,Express Imports 244,verde,2022-03-24
+SL100245,Express Tech 245,verde,2024-06-28
+SL100246,Point Imports 246,verde,2022-02-18
+SL100247,Casa Distribuidora 247,verde,2026-03-18
+SL100248,Mix Outlet 248,verde,2023-01-26
+SL100249,Brasil Tech 249,verde,2022-04-14
+SL100250,Top Tech 250,verde,2024-11-09
+SL100251,Express Commerce 251,verde,2024-12-23
+SL100252,Top Utilidades 252,verde,2024-03-02
+SL100253,Mix Utilidades 253,amarelo,2020-11-18
+SL100254,Casa Tech 254,verde,2021-11-07
+SL100255,Point Varejo 255,verde,2023-08-26
+SL100256,Express Digital 256,verde claro,2022-04-30
+SL100257,Prime Online 257,verde,2022-09-22
+SL100258,Center Commerce 258,verde,2021-10-14
+SL100259,Point Utilidades 259,laranja,2021-10-24
+SL100260,Mega Digital 260,amarelo,2023-01-15
+SL100261,Casa Online 261,verde claro,2025-03-04
+SL100262,Point Imports 262,verde,2022-04-20
+SL100263,Brasil Imports 263,verde,2024-09-12
+SL100264,Point Imports 264,verde,2026-03-07
+SL100265,Express Digital 265,verde,2020-11-04
+SL100266,Mix Plus 266,verde,2025-10-28
+SL100267,Mix Utilidades 267,verde,2021-11-03
+SL100268,Point Tech 268,verde claro,2020-08-10
+SL100269,Center Outlet 269,verde,2025-02-27
+SL100270,Shop Distribuidora 270,verde,2020-01-18
+SL100271,Point Imports 271,amarelo,2026-04-01
+SL100272,Loja Varejo 272,verde,2021-04-20
+SL100273,Casa Outlet 273,verde,2023-11-07
+SL100274,Point Tech 274,verde,2021-07-27
+SL100275,Top Online 275,verde claro,2025-06-27
+SL100276,Shop Digital 276,verde claro,2024-06-12
+SL100277,Express Online 277,verde,2026-03-13
+SL100278,Loja Online 278,verde,2024-12-21
+SL100279,Brasil Outlet 279,verde,2024-08-30
+SL100280,Point Distribuidora 280,verde,2025-12-11
+SL100281,Prime Tech 281,verde,2024-01-22
+SL100282,Mix Digital 282,amarelo,2021-05-03
+SL100283,Casa Commerce 283,verde claro,2021-05-23
+SL100284,Store Online 284,verde claro,2024-02-16
+SL100285,Center Imports 285,verde,2022-05-01
+SL100286,Top Utilidades 286,verde,2024-10-09
+SL100287,Mix Commerce 287,amarelo,2023-12-05
+SL100288,Casa Online 288,verde,2020-03-29
+SL100289,Express Outlet 289,verde,2025-10-31
+SL100290,Brasil Imports 290,verde claro,2026-02-15
+SL100291,Point Imports 291,verde claro,2021-11-25
+SL100292,Loja Online 292,verde claro,2021-10-14
+SL100293,Shop Distribuidora 293,verde,2022-06-27
+SL100294,Mega Online 294,verde,2025-02-09
+SL100295,Prime Plus 295,verde,2020-02-21
+SL100296,Express Plus 296,amarelo,2021-02-16
+SL100297,Center Outlet 297,laranja,2024-05-21
+SL100298,Mega Online 298,verde,2022-08-17
+SL100299,Express Tech 299,amarelo,2022-10-17
+SL100300,Top Distribuidora 300,verde,2025-11-25
+SL100301,Casa Imports 301,verde,2025-01-08
+SL100302,Point Online 302,verde,2020-09-13
+SL100303,Express Online 303,verde,2021-06-21
+SL100304,Top Online 304,verde,2021-08-23
+SL100305,Casa Varejo 305,verde,2024-02-26
+SL100306,Mega Tech 306,verde claro,2022-09-14
+SL100307,Prime Varejo 307,verde,2024-03-28
+SL100308,Shop Digital 308,amarelo,2021-05-31
+SL100309,Prime Outlet 309,amarelo,2022-12-03
+SL100310,Shop Commerce 310,verde,2022-04-20
+SL100311,Mega Tech 311,verde,2021-03-09
+SL100312,Store Commerce 312,amarelo,2021-04-14
+SL100313,Loja Online 313,verde,2022-07-15
+SL100314,Center Tech 314,verde,2024-04-06
+SL100315,Loja Outlet 315,verde,2024-09-09
+SL100316,Top Plus 316,laranja,2024-11-14
+SL100317,Prime Tech 317,verde,2021-03-11
+SL100318,Center Imports 318,verde,2023-08-23
+SL100319,Loja Online 319,verde,2020-07-26
+SL100320,Store Plus 320,verde,2020-10-31
+SL100321,Mega Imports 321,verde,2022-11-30
+SL100322,Prime Online 322,amarelo,2024-05-26
+SL100323,Point Outlet 323,amarelo,2021-06-23
+SL100324,Prime Plus 324,verde,2021-01-27
+SL100325,Top Imports 325,verde,2025-01-15
+SL100326,Shop Digital 326,verde,2023-10-10
+SL100327,Mix Plus 327,verde claro,2025-02-22
+SL100328,Mega Imports 328,verde claro,2020-07-20
+SL100329,Casa Imports 329,verde claro,2025-12-14
+SL100330,Brasil Commerce 330,verde,2025-01-31
+SL100331,Store Varejo 331,verde,2025-04-15
+SL100332,Store Online 332,verde claro,2020-08-23
+SL100333,Point Imports 333,verde,2024-01-29
+SL100334,Shop Plus 334,verde claro,2023-05-29
+SL100335,Center Utilidades 335,verde,2021-03-06
+SL100336,Point Online 336,verde,2025-10-06
+SL100337,Mega Digital 337,laranja,2025-03-07
+SL100338,Top Varejo 338,verde,2025-03-21
+SL100339,Mega Digital 339,verde,2024-08-01
+SL100340,Mega Tech 340,verde,2021-02-12
+SL100341,Prime Tech 341,verde claro,2024-09-13
+SL100342,Shop Online 342,verde,2022-11-27
+SL100343,Casa Varejo 343,verde,2024-05-23
+SL100344,Mix Digital 344,verde,2023-09-30
+SL100345,Store Plus 345,verde,2025-03-24
+SL100346,Top Outlet 346,verde,2023-04-08
+SL100347,Top Plus 347,verde,2021-11-16
+SL100348,Express Utilidades 348,verde,2024-03-02
+SL100349,Loja Tech 349,verde claro,2024-03-26
+SL100350,Mix Utilidades 350,verde,2021-10-31
+SL100351,Brasil Imports 351,amarelo,2023-04-04
+SL100352,Shop Digital 352,laranja,2024-03-09
+SL100353,Store Commerce 353,verde,2022-02-16
+SL100354,Point Imports 354,verde,2021-01-27
+SL100355,Casa Imports 355,amarelo,2022-01-21
+SL100356,Brasil Outlet 356,verde,2025-04-04
+SL100357,Express Varejo 357,verde claro,2020-12-23
+SL100358,Store Imports 358,verde,2022-06-24
+SL100359,Mega Distribuidora 359,verde claro,2023-02-04
+SL100360,Point Utilidades 360,verde,2025-01-01
+SL100361,Top Commerce 361,verde,2022-04-28
+SL100362,Center Utilidades 362,amarelo,2026-04-05
+SL100363,Center Commerce 363,verde,2022-08-27
+SL100364,Mix Distribuidora 364,verde claro,2022-11-29
+SL100365,Shop Commerce 365,verde,2025-05-12
+SL100366,Store Tech 366,verde,2022-11-02
+SL100367,Store Online 367,verde,2024-04-16
+SL100368,Casa Outlet 368,verde,2022-03-21
+SL100369,Prime Imports 369,verde,2024-04-13
+SL100370,Top Imports 370,verde claro,2023-10-04
+SL100371,Prime Imports 371,verde,2026-03-13
+SL100372,Brasil Plus 372,verde claro,2022-07-05
+SL100373,Store Plus 373,laranja,2021-05-15
+SL100374,Casa Utilidades 374,laranja,2020-11-16
+SL100375,Mix Plus 375,amarelo,2023-03-14
+SL100376,Center Utilidades 376,verde claro,2023-02-25
+SL100377,Mix Commerce 377,verde,2020-07-31
+SL100378,Shop Varejo 378,laranja,2020-01-27
+SL100379,Brasil Plus 379,verde,2022-06-22
+SL100380,Center Digital 380,amarelo,2020-03-21
+SL100381,Center Tech 381,amarelo,2025-12-25
+SL100382,Prime Commerce 382,verde claro,2024-12-22
+SL100383,Store Digital 383,verde,2020-07-16
+SL100384,Brasil Utilidades 384,verde,2024-11-25
+SL100385,Point Varejo 385,verde,2024-10-08
+SL100386,Point Outlet 386,verde,2024-07-26
+SL100387,Mega Online 387,verde,2025-06-13
+SL100388,Center Outlet 388,verde,2024-06-13
+SL100389,Store Online 389,verde claro,2023-03-16
+SL100390,Point Online 390,amarelo,2024-07-26
+SL100391,Top Outlet 391,verde,2025-01-08
+SL100392,Mix Distribuidora 392,verde,2023-09-04
+SL100393,Store Online 393,verde,2022-10-11
+SL100394,Prime Tech 394,verde,2023-08-10
+SL100395,Top Imports 395,verde,2022-03-23
+SL100396,Loja Online 396,verde,2022-07-19
+SL100397,Center Imports 397,verde,2023-03-09
+SL100398,Prime Plus 398,verde,2024-09-18
+SL100399,Point Commerce 399,verde,2021-03-23
+SL100400,Store Tech 400,verde claro,2022-09-21
+SL100401,Point Plus 401,verde,2021-12-08
+SL100402,Express Imports 402,verde,2020-12-21
+SL100403,Top Commerce 403,verde,2021-12-03
+SL100404,Top Digital 404,amarelo,2021-11-24
+SL100405,Casa Plus 405,verde,2026-03-23
+SL100406,Prime Commerce 406,verde claro,2022-06-10
+SL100407,Shop Outlet 407,verde,2022-02-09
+SL100408,Mega Utilidades 408,amarelo,2022-06-28
+SL100409,Express Outlet 409,verde,2021-06-10
+SL100410,Shop Online 410,verde,2025-09-30
+SL100411,Center Distribuidora 411,amarelo,2025-12-01
+SL100412,Center Plus 412,verde claro,2022-06-21
+SL100413,Casa Varejo 413,verde,2020-11-14
+SL100414,Casa Varejo 414,verde,2020-02-13
+SL100415,Loja Distribuidora 415,laranja,2026-01-30
+SL100416,Casa Outlet 416,verde,2025-03-26
+SL100417,Mix Tech 417,verde,2025-05-16
+SL100418,Shop Distribuidora 418,amarelo,2023-09-09
+SL100419,Shop Utilidades 419,verde,2024-01-28
+SL100420,Loja Commerce 420,verde,2024-10-31
+SL100421,Brasil Online 421,verde,2022-09-10
+SL100422,Mega Digital 422,verde,2025-03-14
+SL100423,Mix Online 423,verde,2021-03-29
+SL100424,Center Digital 424,verde,2022-10-20
+SL100425,Express Plus 425,verde,2020-09-01
+SL100426,Center Varejo 426,verde,2024-11-16
+SL100427,Shop Varejo 427,verde claro,2020-08-26
+SL100428,Loja Online 428,verde claro,2023-03-02
+SL100429,Brasil Commerce 429,verde,2022-03-14
+SL100430,Store Online 430,verde,2026-04-05
+SL100431,Store Digital 431,verde,2022-07-25
+SL100432,Store Commerce 432,verde claro,2020-11-21
+SL100433,Prime Commerce 433,verde,2025-10-25
+SL100434,Loja Plus 434,amarelo,2023-06-23
+SL100435,Express Digital 435,verde,2023-05-18
+SL100436,Point Varejo 436,verde,2023-12-28
+SL100437,Mega Distribuidora 437,verde,2026-03-28
+SL100438,Loja Commerce 438,verde,2020-02-29
+SL100439,Center Digital 439,verde claro,2024-07-16
+SL100440,Center Commerce 440,verde claro,2022-11-11
+SL100441,Top Utilidades 441,verde,2020-12-02
+SL100442,Loja Imports 442,laranja,2025-09-16
+SL100443,Top Outlet 443,verde claro,2023-06-27
+SL100444,Brasil Imports 444,verde,2025-10-03
+SL100445,Mix Varejo 445,verde,2021-01-01
+SL100446,Point Online 446,verde claro,2024-04-02
+SL100447,Store Online 447,verde,2020-03-31
+SL100448,Mega Commerce 448,verde claro,2026-03-15
+SL100449,Shop Outlet 449,verde claro,2025-12-10
+SL100450,Mega Varejo 450,verde,2025-07-26
+SL100451,Center Distribuidora 451,amarelo,2022-02-16
+SL100452,Loja Outlet 452,verde,2024-05-22
+SL100453,Prime Distribuidora 453,verde,2021-03-12
+SL100454,Express Distribuidora 454,verde,2025-04-16
+SL100455,Shop Varejo 455,amarelo,2020-08-22
+SL100456,Mega Commerce 456,verde,2024-08-17
+SL100457,Top Tech 457,verde claro,2024-02-08
+SL100458,Casa Online 458,verde,2021-11-08
+SL100459,Store Tech 459,amarelo,2022-11-26
+SL100460,Shop Varejo 460,amarelo,2022-12-28
+SL100461,Loja Online 461,verde,2020-01-27
+SL100462,Point Commerce 462,laranja,2020-04-30
+SL100463,Loja Tech 463,verde,2024-07-02
+SL100464,Mega Outlet 464,verde,2024-04-28
+SL100465,Center Tech 465,verde,2021-08-13
+SL100466,Prime Outlet 466,verde,2022-10-24
+SL100467,Mega Online 467,verde,2024-11-30
+SL100468,Store Varejo 468,verde,2024-04-11
+SL100469,Center Online 469,verde,2023-01-28
+SL100470,Point Digital 470,verde,2025-06-10
+SL100471,Mix Tech 471,verde,2023-05-16
+SL100472,Point Outlet 472,verde claro,2020-01-13
+SL100473,Top Commerce 473,amarelo,2022-11-17
+SL100474,Shop Commerce 474,verde,2021-07-12
+SL100475,Center Distribuidora 475,verde,2024-04-03
+SL100476,Center Distribuidora 476,verde,2020-08-29
+SL100477,Top Commerce 477,verde,2026-03-27
+SL100478,Prime Varejo 478,laranja,2023-10-29
+SL100479,Mega Imports 479,verde,2025-01-09
+SL100480,Prime Utilidades 480,amarelo,2022-11-24
+SL100481,Express Utilidades 481,verde claro,2020-06-07
+SL100482,Casa Varejo 482,verde,2022-09-29
+SL100483,Brasil Plus 483,verde claro,2023-02-12
+SL100484,Brasil Tech 484,verde,2022-08-21
+SL100485,Top Varejo 485,amarelo,2021-06-22
+SL100486,Store Tech 486,verde,2021-04-21
+SL100487,Casa Commerce 487,verde,2020-08-23
+SL100488,Center Plus 488,verde claro,2023-02-18
+SL100489,Top Outlet 489,verde,2021-03-24
+SL100490,Point Tech 490,verde,2023-12-10
+SL100491,Prime Utilidades 491,verde,2021-07-24
+SL100492,Top Outlet 492,verde,2022-09-27
+SL100493,Top Varejo 493,verde,2026-01-16
+SL100494,Store Distribuidora 494,verde claro,2023-04-20
+SL100495,Mega Digital 495,amarelo,2024-09-09
+SL100496,Casa Outlet 496,verde,2024-04-17
+SL100497,Casa Tech 497,verde,2025-05-15
+SL100498,Brasil Varejo 498,laranja,2020-05-08
+SL100499,Loja Imports 499,verde,2024-05-26
+SL100500,Store Varejo 500,verde claro,2021-07-01
+SL100501,Top Outlet 501,verde,2021-12-27
+SL100502,Shop Outlet 502,amarelo,2025-09-14
+SL100503,Mega Varejo 503,verde,2022-06-18
+SL100504,Center Online 504,amarelo,2023-03-31
+SL100505,Mix Varejo 505,verde claro,2022-10-10
+SL100506,Center Tech 506,amarelo,2020-09-03
+SL100507,Express Commerce 507,verde,2021-11-05
+SL100508,Top Utilidades 508,verde claro,2020-12-13
+SL100509,Brasil Tech 509,verde,2022-08-27
+SL100510,Brasil Online 510,verde,2020-01-06
+SL100511,Center Online 511,verde,2024-11-08
+SL100512,Brasil Digital 512,verde,2023-05-16
+SL100513,Casa Online 513,verde claro,2020-06-23
+SL100514,Express Outlet 514,amarelo,2026-03-30
+SL100515,Shop Varejo 515,verde,2021-09-28
+SL100516,Casa Digital 516,verde,2022-03-12
+SL100517,Mega Distribuidora 517,verde,2023-01-06
+SL100518,Brasil Utilidades 518,verde claro,2023-05-15
+SL100519,Prime Distribuidora 519,verde,2024-04-04
+SL100520,Prime Tech 520,verde,2023-05-08
+SL100521,Top Distribuidora 521,verde claro,2024-01-25
+SL100522,Point Utilidades 522,verde claro,2021-12-13
+SL100523,Top Varejo 523,verde,2024-07-25
+SL100524,Casa Commerce 524,verde,2025-05-15
+SL100525,Point Distribuidora 525,verde,2020-08-30
+SL100526,Mega Utilidades 526,amarelo,2020-09-30
+SL100527,Loja Plus 527,verde,2021-02-19
+SL100528,Prime Utilidades 528,verde,2022-02-01
+SL100529,Point Tech 529,verde,2021-12-11
+SL100530,Casa Utilidades 530,verde,2024-11-28
+SL100531,Prime Digital 531,verde,2021-10-09
+SL100532,Express Varejo 532,verde,2025-08-02
+SL100533,Store Online 533,amarelo,2024-10-03
+SL100534,Prime Online 534,verde,2025-12-01
+SL100535,Center Imports 535,verde,2026-04-03
+SL100536,Mega Imports 536,verde,2020-06-12
+SL100537,Loja Tech 537,amarelo,2024-04-20
+SL100538,Center Online 538,verde claro,2025-06-16
+SL100539,Prime Varejo 539,verde,2020-03-17
+SL100540,Center Plus 540,verde claro,2021-01-13
+SL100541,Top Distribuidora 541,verde,2021-11-15
+SL100542,Express Distribuidora 542,laranja,2021-04-19
+SL100543,Center Online 543,verde,2025-01-20
+SL100544,Prime Online 544,verde,2020-11-02
+SL100545,Loja Tech 545,verde claro,2025-10-26
+SL100546,Casa Utilidades 546,verde,2022-04-02
+SL100547,Point Varejo 547,verde claro,2023-09-30
+SL100548,Loja Varejo 548,verde,2022-07-28
+SL100549,Loja Imports 549,verde,2022-03-13
+SL100550,Prime Varejo 550,verde,2025-06-12
+SL100551,Casa Distribuidora 551,verde claro,2022-03-27
+SL100552,Shop Imports 552,verde,2026-02-28
+SL100553,Center Imports 553,laranja,2023-12-27
+SL100554,Prime Imports 554,amarelo,2022-04-07
+SL100555,Store Utilidades 555,verde,2025-06-10
+SL100556,Point Plus 556,verde,2021-09-30
+SL100557,Casa Digital 557,amarelo,2022-02-22
+SL100558,Loja Imports 558,verde,2025-08-06
+SL100559,Prime Imports 559,verde,2021-03-14
+SL100560,Store Varejo 560,verde,2025-07-24
+SL100561,Point Digital 561,verde,2020-01-07
+SL100562,Mega Varejo 562,verde,2020-01-21
+SL100563,Mega Imports 563,verde claro,2020-11-12
+SL100564,Loja Utilidades 564,amarelo,2023-11-15
+SL100565,Center Online 565,verde claro,2025-05-11
+SL100566,Brasil Imports 566,verde,2025-04-29
+SL100567,Shop Distribuidora 567,verde,2023-12-07
+SL100568,Mega Varejo 568,verde,2024-01-14
+SL100569,Center Varejo 569,laranja,2026-03-28
+SL100570,Shop Outlet 570,verde,2025-12-22
+SL100571,Mix Imports 571,verde,2020-06-08
+SL100572,Express Plus 572,amarelo,2023-07-13
+SL100573,Casa Outlet 573,verde,2022-04-21
+SL100574,Express Distribuidora 574,verde,2020-11-05
+SL100575,Top Digital 575,verde,2025-01-04
+SL100576,Loja Distribuidora 576,verde,2023-06-01
+SL100577,Store Distribuidora 577,amarelo,2024-02-29
+SL100578,Prime Online 578,verde,2023-04-02
+SL100579,Store Utilidades 579,verde,2020-06-02
+SL100580,Mega Plus 580,verde,2025-06-16
+SL100581,Loja Outlet 581,verde claro,2022-07-12
+SL100582,Mega Imports 582,verde,2021-05-19
+SL100583,Top Tech 583,amarelo,2024-01-06
+SL100584,Top Digital 584,amarelo,2021-11-30
+SL100585,Point Outlet 585,amarelo,2024-04-30
+SL100586,Mix Plus 586,verde,2023-03-20
+SL100587,Store Plus 587,verde,2022-11-04
+SL100588,Prime Distribuidora 588,verde,2020-08-17
+SL100589,Center Distribuidora 589,laranja,2021-03-08
+SL100590,Center Distribuidora 590,verde claro,2025-06-11
+SL100591,Prime Commerce 591,verde,2026-01-30
+SL100592,Casa Plus 592,verde claro,2023-06-24
+SL100593,Point Distribuidora 593,amarelo,2022-12-08
+SL100594,Center Tech 594,laranja,2021-02-16
+SL100595,Prime Commerce 595,verde claro,2024-07-07
+SL100596,Top Digital 596,amarelo,2024-01-30
+SL100597,Prime Online 597,verde claro,2023-05-15
+SL100598,Top Distribuidora 598,verde,2021-09-09
+SL100599,Express Varejo 599,verde,2020-07-04
+SL100600,Mix Outlet 600,verde claro,2026-02-07
+SL100601,Store Online 601,verde,2021-06-28
+SL100602,Mega Tech 602,verde,2024-02-11
+SL100603,Brasil Digital 603,laranja,2020-05-24
+SL100604,Shop Imports 604,verde,2024-04-19
+SL100605,Brasil Imports 605,verde,2021-03-14
+SL100606,Top Tech 606,amarelo,2024-05-27
+SL100607,Store Varejo 607,verde,2021-04-05
+SL100608,Brasil Plus 608,laranja,2023-02-13
+SL100609,Loja Utilidades 609,amarelo,2022-08-12
+SL100610,Shop Outlet 610,verde,2023-03-24
+SL100611,Mix Distribuidora 611,verde,2022-01-09
+SL100612,Prime Outlet 612,verde,2022-02-16
+SL100613,Casa Varejo 613,amarelo,2022-04-13
+SL100614,Prime Digital 614,verde,2024-01-05
+SL100615,Mega Online 615,verde,2025-02-21
+SL100616,Store Utilidades 616,amarelo,2022-04-21
+SL100617,Loja Imports 617,verde,2020-02-19
+SL100618,Loja Online 618,verde claro,2021-03-23
+SL100619,Loja Distribuidora 619,verde claro,2020-08-25
