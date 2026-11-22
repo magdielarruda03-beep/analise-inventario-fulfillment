@@ -4,7 +4,7 @@ Projeto de portfólio simulando o trabalho de um **analista de dados de inventá
 
 A partir de extrações brutas de WMS, o notebook trata os dados, valida a base e calcula em **DuckDB (SQL)** as métricas de eficiência do inventário e da operação diária. Cada métrica vem com a fórmula e a leitura de negócio.
 
-> Dados **100% sintéticos**, gerados por `scripts/gerar_dados.py`. Não representam números reais de nenhuma empresa.
+> Dados **100% sintéticos**, criados para estudo. Não representam números reais de nenhuma empresa.
 
 **Escopo:** 3 FCs (SP, MG, BA) · 620 sellers · 4.200 SKUs · ~264 mil pedidos · jul a out/2026
 
@@ -54,7 +54,6 @@ A partir de extrações brutas de WMS, o notebook trata os dados, valida a base 
 ```
 ├── data/raw/                                   # extrações do WMS
 ├── notebooks/analise_inventario_fulfillment.ipynb
-├── scripts/gerar_dados.py                      # gerador dos dados sintéticos
 └── requirements.txt
 ```
 
@@ -75,7 +74,6 @@ A partir de extrações brutas de WMS, o notebook trata os dados, valida a base 
 ## Como executar
 ```bash
 pip install -r requirements.txt
-python scripts/gerar_dados.py      # opcional: recria data/raw
 jupyter notebook notebooks/analise_inventario_fulfillment.ipynb
 ```
 
